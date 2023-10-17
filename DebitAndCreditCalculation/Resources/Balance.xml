@@ -1,0 +1,2060 @@
+<?xml version="1.0" ?>
+<Document xmlns="iso.cbr.ru">
+	<Ballance Rest="-5900">
+		<StartRest>131</StartRest>
+		<Oper data="05-03-2021" dbt="282">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="34">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="872">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="452">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="565">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="599">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="716">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="960">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="357">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="186">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="295">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="635">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="52">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="306">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="712">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="722">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="878">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="211">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="460">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="37">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="30">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="963">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="399">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="711">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="931">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="426">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="693">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="836">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="639">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="69">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="21">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="164">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="541">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="946">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="882">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="590">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="661">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="636">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="837">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="360">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="924">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="612">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="881">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="637">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="478">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="527">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="933">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="489">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="459">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="879">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="705">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="390">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="229">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="245">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="654">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="277">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="787">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="555">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="157">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="179">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="448">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="507">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="898">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="359">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="698">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="914">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="880">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="78">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="285">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="407">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="788">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="123">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="528">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="885">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="915">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="844">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="821">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="858">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="229">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="818">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="833">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="125">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="371">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="56">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="113">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="469">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="691">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="412">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="41">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="770">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="528">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="26">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="837">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="773">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="397">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="46">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="57">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="31">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="488">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="264">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="753">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="165">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="188">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="819">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="188">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="563">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="258">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="17">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="938">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="871">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="280">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="326">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="131">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="39">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="291">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="736">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="320">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="424">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="168">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="716">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="5">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="436">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="926">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="302">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="857">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="819">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="835">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="374">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="546">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="692">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="76">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="419">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="129">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="437">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="362">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="727">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="197">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="1">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="354">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="509">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="651">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="811">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="689">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="780">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="878">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="818">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="19">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="119">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="661">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="37">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="415">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="606">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="627">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="515">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="67">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="845">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="72">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="605">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="970">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="299">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="809">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="371">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="903">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="71">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="258">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="4">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="55">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="911">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="888">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="731">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="592">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="177">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="188">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="602">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="837">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="94">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="683">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="920">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="279">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="815">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="859">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="346">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="67">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="164">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="695">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="984">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="965">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="928">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="317">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="266">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="830">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="614">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="849">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="708">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="944">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="478">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="558">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="974">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="160">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="478">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="655">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="114">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="436">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="280">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="997">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="393">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="786">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="241">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="69">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="924">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="576">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="232">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="511">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="339">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="929">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="830">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="11">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="600">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="517">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="494">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="377">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="214">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="62">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="258">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="158">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="428">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="960">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="354">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="732">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="746">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="719">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="84">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="120">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="761">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="821">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="56">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="118">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="818">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="987">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="182">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="342">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="106">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="555">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="83">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="261">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="398">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="169">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="40">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="102">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="6">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="434">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="757">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="949">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="700">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="821">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="643">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="81">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="676">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="51">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="946">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="294">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="319">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="418">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="93">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="710">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="762">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="254">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="78">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="54">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="57">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="904">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="326">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="255">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="835">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="747">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="724">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="331">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="82">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="545">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="723">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="411">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="32">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="445">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="300">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="179">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="850">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="15">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="194">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="433">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="381">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="822">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="47">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="566">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="945">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="357">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="562">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="18">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="293">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="979">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="459">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="637">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="654">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="70">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="379">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="690">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="297">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="569">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="939">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="727">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="297">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="21">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="956">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="577">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="633">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="290">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="235">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="798">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="171">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="867">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="100">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="915">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="276">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="777">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="17">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="691">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="363">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="668">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="546">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="264">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="267">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="198">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="567">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="839">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="260">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="937">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="937">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="366">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="240">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="822">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="676">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="764">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="52">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="838">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="44">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="817">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="436">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="722">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="116">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="60">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="607">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="270">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="400">
+			<Status>Выполняется</Status>
+			<corAcc>40817_K1</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40817_K1" dbt="" cdt="100">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="200">
+			<Status>Исключен</Status>
+			<corAcc>40817_K1</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="919">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="331">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="236">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="919">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="266">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="696">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="124">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="150">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="515">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="767">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="74">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="953">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="166">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="637">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="457">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="619">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="623">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="633">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="331">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="288">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="441">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="271">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="834">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="392">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="139">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="481">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="695">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="350">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="973">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="679">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="207">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="581">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="826">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="256">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="229">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="794">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="189">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="31">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="199">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="156">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="787">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="491">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="707">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="470">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="771">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="361">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="211">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="967">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="329">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="527">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="28">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="671">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="114">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="907">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="309">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="642">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="129">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="243">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="550">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="205">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="427">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="847">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="451">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="836">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="796">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="767">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="237">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="969">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="72">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="236">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="166">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="659">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="827">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="187">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="764">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="799">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="389">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="303">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="381">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="843">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="558">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="282">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="524">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="930">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="563">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="337">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="279">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="281">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="878">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="398">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="392">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="511">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="681">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="783">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="126">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="134">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="507">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="774">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="936">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="499">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="91">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="194">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="260">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="227">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="488">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="545">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="615">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="34">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="264">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="183">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="267">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="779">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="754">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="967">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="925">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="495">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="963">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="918">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40717" dbt="" cdt="856">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="362">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="280">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="168">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="604">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="75">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="857">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="123">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="696">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="140">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="116">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="658">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="422">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="707">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="76">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="367">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="66">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="19">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="486">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="936">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="14">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="77">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40911" dbt="" cdt="960">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="401">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="348">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="593">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="144">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="473">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="876">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="353">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="668">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="295">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="727">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="740">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="786">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="368">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="81">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="684">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="893">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="91">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="823">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="997">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="500">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="33">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="394">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="284">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="8">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="81">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="525">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="689">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="482">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="80">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="54">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40719" dbt="" cdt="784">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="199">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="914">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="481">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="620">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="160">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="446">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="15">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="860">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="912">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="521">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="31">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40911" dbt="" cdt="145">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40811" dbt="" cdt="567">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="428">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="398">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="547">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40811" dbt="" cdt="863">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40811" dbt="" cdt="248">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="711">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="522">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="942">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40719" dbt="" cdt="946">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="445">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="172">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40911" dbt="" cdt="19">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="113">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="443">
+			<Status>Выполнена</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="467">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40911" dbt="" cdt="951">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="994">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="151">
+			<Status>Исключен</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="170">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" dbt="995">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="153">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="286">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" dbt="554">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="18">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="106">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40811" dbt="" cdt="866">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-05-2021" dbt="245">
+			<Status>Исключен</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40717" dbt="" cdt="813">
+			<Status>Выполнена</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="107">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="722">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="866">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="4">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="9">
+			<Status>Исключен</Status>
+			<corAcc>40719</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" dbt="388">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="03-05-2021" corAcc="40719" dbt="" cdt="28">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="708">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="479">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="48">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-05-2021" dbt="82">
+			<Status>Исключен</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" corAcc="40719" dbt="" cdt="439">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="05-03-2021" dbt="837">
+			<Status>Выполнена</Status>
+			<corAcc>40811</corAcc>
+		</Oper>
+		<Oper data="05-03-2021" dbt="554">
+			<Status>Выполнена</Status>
+			<corAcc>40911</corAcc>
+		</Oper>
+		<Oper data="03-03-2021" dbt="551">
+			<Status>Выполнена</Status>
+			<corAcc>40717</corAcc>
+		</Oper>
+		<Oper data="05-05-2021" corAcc="40717" dbt="" cdt="151">
+			<Status>Исключен</Status>
+		</Oper>
+		<Oper data="03-03-2021" corAcc="40717" dbt="" cdt="101">
+			<Status>Исключен</Status>
+		</Oper>
+	</Ballance>
+</Document>
